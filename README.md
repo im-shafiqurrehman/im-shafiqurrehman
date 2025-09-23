@@ -18,8 +18,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🧩 **React, Node.js, TypeScript, MongoDB, Express**  
 &nbsp;&nbsp;&nbsp;&nbsp;📚 DSA in **C++**, System Design, Docker, DevOps
 
-🌐 Check out my updated portfolio:  
-&nbsp;&nbsp;&nbsp;&nbsp;👉 [shafiqurrehman.app](https://shafiqurrehman.vercel.app/)
 
 📄 Resume / Experience:  
 &nbsp;&nbsp;&nbsp;&nbsp;📌 [View My Portfolio](https://shafiqurrehman.vercel.app/)
