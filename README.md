@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;👉 [shafiqurrehman-portfolio-website.vercel.app](https://shafiqurrehman-portfolio-website.vercel.app/)
 
 📄 Resume / Experience:  
-&nbsp;&nbsp;&nbsp;&nbsp;📌 [View My Portfolio](https://shafiqurrehman-portfolio-website.vercel.app/)
+&nbsp;&nbsp;&nbsp;&nbsp;📌 [View My Portfolio](https://shafiqurrehman.vercel.app/)
 
 ⚡ Fun Fact:  
 &nbsp;&nbsp;&nbsp;&nbsp;I love solving problems and mentoring devs who love to learn!
