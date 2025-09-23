@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;📚 DSA in **C++**, System Design, Docker, DevOps
 
 🌐 Check out my updated portfolio:  
-&nbsp;&nbsp;&nbsp;&nbsp;👉 [shafiqurrehman-portfolio-website.vercel.app](https://shafiqurrehman-portfolio-website.vercel.app/)
+&nbsp;&nbsp;&nbsp;&nbsp;👉 [shafiqurrehman-portfolio-website.vercel.app](https://shafiqurrehman.vercel.app/)
 
 📄 Resume / Experience:  
 &nbsp;&nbsp;&nbsp;&nbsp;📌 [View My Portfolio](https://shafiqurrehman.vercel.app/)
