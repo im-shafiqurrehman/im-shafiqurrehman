@@ -131,11 +131,4 @@ React state management, and DSA problem solving.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-shafiqurrehman&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shafiqurrehman&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="150" />
-</p>
-
----
-
 Open to full-time roles in cloud, DevOps, and backend engineering, and to open-source collaboration.
