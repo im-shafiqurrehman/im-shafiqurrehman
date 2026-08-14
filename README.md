@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">🇵🇰 A Software Engineer | Full-Stack Developer from Pakistan</h3>
-<h4 align="center">Trainer @DevWeekends | Tech Lead | 200+ LeetCode | UE '27 Grad</h4>
+<h4 align="center">Trainer @DevWeekends | Tech Lead | 200+ LeetCode | UE '26 Grad</h4>
 
 <br/>
 
